@@ -50,7 +50,7 @@
 **LinkedIn**
 
 <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
--[Click on this](linkedin.com/in/divya-prakash-a9210018b)
+[Click on this](linkedin.com/in/divya-prakash-a9210018b)
  
  
 

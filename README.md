@@ -38,9 +38,25 @@
  - Hindi
 
 
-**Here is the link of my linkedIn**
+**Here is the link of my** 
 
-<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
+**LinkedIn**
+
+<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
 -[Click on this](linkedin.com/in/divya-prakash-a9210018b)
  
+ **Instagram**
  
+ <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
+ -[Click on this](https://www.instagram.com/div._.yash/)
+
+**Facebook**
+
+<img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+-[Click on this](https://www.facebook.com/profile.php?id=100036106535133)
+
+
+**Youtube**
+
+<img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png"/>
+-[Click on this](https://www.youtube.com/)

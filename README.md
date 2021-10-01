@@ -38,7 +38,14 @@
  - Hindi
 
 
-**Here is the link of my** 
+
+## **Interests**
+1. coding
+2. game devlopment
+3. hacking
+
+
+**Here is the link of my :** 
 
 **LinkedIn**
 

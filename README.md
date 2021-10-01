@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/divGGyash/div_GG_yash/blob/main/mydesc.mp4)
+![](https://github.com/divGGyash/div_GG_yash/blob/main/ezgif.com-gif-maker.gif)
 
 # My-Intro 🔭
 ##  Hi 👋 , I'm Divya and I am form NSEC IT  , 1st year .
@@ -38,7 +38,7 @@
  - Hindi
 
 
-**Here is the link of my linkedIn 
+**Here is the link of my linkedIn**
 
 <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
 -[Click on this](linkedin.com/in/divya-prakash-a9210018b)

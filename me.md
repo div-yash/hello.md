@@ -5,9 +5,11 @@
 # Battling complex problems with Java and enchanting data with Python.
 
 # Java DSA: 
+
 My weapon of choice for conquering tricky problems.
 
 # Python Data Science: 
+
 My magic wand for transforming data into gold.
 
 # Can make a heap sort look graceful and a scatter plot look stunning.

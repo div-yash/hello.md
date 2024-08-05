@@ -1,28 +1,28 @@
 ##  Hi 👋 , I'm Divya ,
 
-##⚔️ Algorithm Warrior & Data Sorcerer ⚔️
+## ⚔️ Algorithm Warrior & Data Sorcerer ⚔️
 
-#Battling complex problems with Java and enchanting data with Python.
+# Battling complex problems with Java and enchanting data with Python.
 
-#Java DSA: 
+# Java DSA: 
 My weapon of choice for conquering tricky problems.
 
-#Python Data Science: 
+# Python Data Science: 
 My magic wand for transforming data into gold.
 
-#Can make a heap sort look graceful and a scatter plot look stunning.
+# Can make a heap sort look graceful and a scatter plot look stunning.
 
-#Believes in the beauty of O(n log n) and the simplicity of SciPy.
+# Believes in the beauty of O(n log n) and the simplicity of SciPy.
 
-#Debugging skills sharper than a two-edged sword.
+# Debugging skills sharper than a two-edged sword.
 
-#Can traverse a graph and cleanse a dataset without breaking a sweat.
+# Can traverse a graph and cleanse a dataset without breaking a sweat.
 
-#Thinks hash maps and data visualizations are the peak of innovation.
+# Thinks hash maps and data visualizations are the peak of innovation.
 
-#Convinced that Abstract Data Types in Java and Jupyter notebooks in Python are just different languages of logic.
+# Convinced that Abstract Data Types in Java and Jupyter notebooks in Python are just different languages of logic.
 
-##Turning chaos into order, one code snippet at a time.
+## Turning chaos into order, one code snippet at a time.
 
 # Basic Details ✨
 

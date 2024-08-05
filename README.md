@@ -3,6 +3,28 @@
 # My-Intro 🔭
 ##  Hi 👋 , I'm Divya and I am form NSEC IT  , 1st year .
 
+##⚔️ Algorithm Warrior & Data Sorcerer ⚔️
+
+#Battling complex problems with Java and enchanting data with Python.
+
+Java DSA: My weapon of choice for conquering tricky problems.
+
+Python Data Science: My magic wand for transforming data into gold.
+
+Can make a heap sort look graceful and a scatter plot look stunning.
+
+Believes in the beauty of O(n log n) and the simplicity of SciPy.
+
+Debugging skills sharper than a two-edged sword.
+
+Can traverse a graph and cleanse a dataset without breaking a sweat.
+
+Thinks hash maps and data visualizations are the peak of innovation.
+
+Convinced that Abstract Data Types in Java and Jupyter notebooks in Python are just different languages of logic.
+
+Turning chaos into order, one code snippet at a time.
+
 # Basic Details ✨
 
  **Name** - *Divya Prakash*
@@ -18,41 +40,26 @@
  <img src="https://img.icons8.com/nolan/96/student-male.png"/>
  
 
- **College Name** - *Netaji Subhas Engineeering College*
+ **College Name** - *Netaji Subhash Engineering College*
 
 **City** - *Kolkata , Goria*
  
  ## **My Skills :** ✨
  | S.no | Skills|
  |---|---|
- |1.| *Java ON BlueJ* |
+ |1.| *Java* |
  |2.| *Pythan* | 
  |3.| *MySQL* |
  
  
+ 
  ## **Courses :** ✨
  1. Coursera
+ 2. Udemy
  
  ## **Language** 🛎️
  - English
  - Hindi
-
-
-
-## **Interests**
-1. coding
-2. game devlopment
-3. hacking
-
-
-**Here is the link of my :** 
-
-**LinkedIn**
-
-<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
-[Click on this](https://www.linkedin.com/in/divya-prakash-a9210018b)
- 
- 
 
 
 **Gmail**
